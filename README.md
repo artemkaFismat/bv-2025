@@ -1,5 +1,7 @@
 # bv-2025
 https://habr.com/ru/articles/810721/
+Создание промта
+https://habr.com/ru/companies/lanit/articles/812261/
 
 def split_text(article_text: str) -> int:
     n = article_text.split('\n')
